@@ -64,7 +64,7 @@ margin: 8rem 0;
   display: grid;
   grid-template-columns: auto 1fr;
 }
-.image-p {
+.image.p {
   border-radius: 15px;
 margin: 1rem 0px;
 }
